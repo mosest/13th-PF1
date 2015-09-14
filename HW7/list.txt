@@ -1,0 +1,23 @@
+17460000 321234000 United States
+2143000 121006000 Mexico
+1579000 35863000 Canada
+128500 11260000 Cuba
+135700 9980000 Dominican Republic
+118700 35863000 Guatemala
+76950 3764000 Panama
+71210 4851000 Costa Rica
+50900 6459000 El Salvador
+38950 8950000 Honduras
+29850 6514000 Nicaragua
+42230 1357000 Trinidad and Tobago
+24280 2729000 Jamaica
+18540 10994000 Haiti
+9034 379000 The Bahamas
+4513 283000 Barbados
+2907 368000 Belize
+1893 172000 Saint Lucia
+1989 89000 Antigua and Barbuda
+1248 104000 Grenada
+1198 110000 Saint Vincent and the Grenadines
+757 71000 Dominica
+1220 46000 Saint Kitts and Nevis

@@ -1,0 +1,5 @@
+74.125.239.104 www.google.com
+192.0.79.33 www.hackaday.com
+130.184.5.181 www.uark.edu
+140.147.249.7 www.loc.gov 
+130.184.98.31 www.csce.uark.edu

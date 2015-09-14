@@ -1,0 +1,14 @@
+hw7: hw7.o Country.o Continent.o 
+	g++ hw7.o Country.o Continent.o -o hw7
+
+hw7.o : hw7.cpp Country.h Continent.h 
+	g++ -Wall -c hw7.cpp
+
+Country.o : Country.cpp Country.h
+	g++ -Wall -c Country.cpp
+
+Continent.o : Continent.cpp Continent.h Country.h
+	g++ -Wall -c Continent.cpp
+
+clean :
+	rm *.o hw7
