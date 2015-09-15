@@ -41,15 +41,15 @@ Freshman year of college, Spring semester :3
   B: Array Functions
   C: 2D Arrays
 9
-  A: Read ASCII Files
-  B: Write ASCII Files
-  C: Advanced File I/O
+  A: Read ASCII Files (reads in from numbers.txt)
+  B: Write ASCII Files (outputs to words.txt)
+  C: Advanced File I/O (reads in from message.in, outputs to message.out)
 10
   A: Using String Class
   B: Using Temperature Class
   C: Extending Temperature Class
 11
-  A: Using Safe Array
+  A: Using Safe Array (reads in from data2.in, outputs to data2.out)
   B: Extending Safe Array
   C: Improving Safe Array
 12
